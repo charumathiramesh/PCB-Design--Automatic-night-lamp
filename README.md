@@ -42,9 +42,16 @@ During the daytime when there is a light, the LDR has very low resistance and al
 
 ### Schematic diagram
 
+![313084150-aa2c1734-17af-4965-822d-b4e855eded4f](https://github.com/charumathiramesh/PCB-Design--Automatic-night-lamp/assets/120204455/21d0288a-5f60-43e5-bf18-2fcf58113b93)
 
 
 ### Layout diagram
+
+![313084211-893cd432-3327-4d0a-af84-aa231c0e352d](https://github.com/charumathiramesh/PCB-Design--Automatic-night-lamp/assets/120204455/84e5b992-37f5-4444-a3c3-6a68d93b0720)
+
+## RESULT
+
+Thus, the PCB circuit for automatic night lamp using eagle sofware is designed successfully.
 
 
 
