@@ -57,6 +57,4 @@ Thus, the PCB circuit for automatic night lamp using eagle sofware is designed s
 
 
 
-# Result
-Thus the automatic night lamp circuit was designed using proteus software.
 
